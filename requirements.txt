@@ -1,0 +1,23 @@
+
+
+----------------------------HARDWARE REQUIREMENTS-----------------------------
+
+* Intel i3 Processor or above 
+* At least 4Gb of RAM
+* Minimum 15Gb of auxilliary space
+
+
+
+
+---------------------------SOFTWARES USED------------------------------
+
+* Python 3.6 
+* FFMPEG Binary Release
+* MoviePy v1.0.3 or above
+* PIL or Pillow v8.0.1 or above
+* OpenCV - Python 4.4.0.46
+* NumPy v1.19.4 or above
+* ImageIO v2.9.0
+* ImageIO-ffmpeg v0.4.2
+* Pyscreeze v0.1.26
+* NSIS Tool
